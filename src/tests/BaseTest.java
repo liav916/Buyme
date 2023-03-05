@@ -15,6 +15,9 @@ public class BaseTest {
      static loginPage loginPage;
      static signUpPage signUpPage;
 
+     int a =5;
+
+
 
     //2.@before class - init to browser, driver and report
     //3.read from file
